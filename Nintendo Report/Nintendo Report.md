@@ -16,7 +16,7 @@ The market leader could be defined by a number of metrics, but I am choosing to 
 1.  Many consoles today are more than just machines for playing games. They are utilized for other forms of media and can be bought and used only for these purposes instead of actually playing games
 2.  Compared to number of consoles sold, it is easier to break down global sales of games into categories that allow us to understand why consumers prefer one company over another.
 
-![](Story_Telling_Document_files/figure-markdown_github/nintendo.1.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20Images/nintendo.1.1-1.png)
 
 ***Figure 1:*** Sony is crushing the competition. They have sold nearly double the amount of games that Nintendo and Microsoft have. The key to understanding where Nintendo is struggling is to break these totals down by rating and exclusivity.
 
@@ -28,7 +28,7 @@ The market leader could be defined by a number of metrics, but I am choosing to 
 
 One of the factors in a consumer's decision of which console to buy are the exclusive games that are only playable on that console. Breaking down total sales by games that are exclusive vs. cross-platform will help show the relative importance that exclusive games have for each company.
 
-![](Story_Telling_Document_files/figure-markdown_github/nintendo.1.2-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20Images/nintendo.1.2-1.png)
 
 ***Figure 2:*** When it comes to sales of exclusive games, Nintendo is actually performing about the same as Sony. This shows that Nintendo's main problem area is cross-platform games. Conversely, Microsoft has the opposite problem of Nintendo. The fact that Sony is performing well in both areas plays a large factor in their market dominance.
 
@@ -41,7 +41,7 @@ Rating is a valuable way of breaking down games sold because it captures two dif
 1.  Rating can be a valuable way of understanding the targeted demographic for a particular game.
 2.  Rating is a proxy variable for the genre of a particular game. Mature, action oriented games such as shooters are often classified as T or M, while family-friendly games such as sports games or puzzle games are often classified as E or E10+
 
-![](Story_Telling_Document_files/figure-markdown_github/nintendo.1.3-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20Images/nintendo.1.3-1.png)
 
 ***Figure 3:*** Again, we see that Nintendo's game sales are comprised by an asymmetric distribution among Ratings. Most of their sales comes from E or E10+ rated games, while Microsoft's games are primarily the more mature T or M rated games. Sony, to their credit, performs well in both family friendly rated games as well as mature rated games.
 
@@ -51,7 +51,7 @@ Rating is a valuable way of breaking down games sold because it captures two dif
 
 Looking at Sales by Rating & Exclusivity individually provides valuable insight as to where Nintendo is performing well and where they are not. However, looking at these variables together will help us better understand the relationship between the two variables and ultimately give us a better idea of why Nintendo is struggling.
 
-![](Story_Telling_Document_files/figure-markdown_github/nintendo%202.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20Images/nintendo%202.1-1.png)
 
 ***Figure 4:*** There are three imporant things to point out from this graph.
 
