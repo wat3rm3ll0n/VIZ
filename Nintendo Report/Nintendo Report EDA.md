@@ -174,7 +174,7 @@ df.clean %>%
   geom_histogram(stat = "count")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-1.png)
 
 ``` r
 df.clean %>%
@@ -182,7 +182,7 @@ df.clean %>%
   geom_histogram(stat = "count")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-2.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-2.png)
 
 ``` r
 df.clean %>%
@@ -190,7 +190,7 @@ df.clean %>%
   geom_histogram(stat = "count")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-3.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-3.png)
 
 ``` r
 df.clean %>%
@@ -198,7 +198,7 @@ df.clean %>%
   geom_histogram(stat = "count")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-4.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-4.png)
 
 ``` r
 df.clean %>%
@@ -207,7 +207,7 @@ df.clean %>%
   scale_x_continuous(limits = c(0,1.5))
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-5.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-5.png)
 
 ``` r
 df.clean %>%
@@ -216,7 +216,7 @@ df.clean %>%
   scale_x_continuous(limits = c(0,1.3))
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-6.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-6.png)
 
 ``` r
 df.clean %>%
@@ -225,7 +225,7 @@ df.clean %>%
   scale_x_continuous(limits = c(0,1))
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-7.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-7.png)
 
 ``` r
 df.clean %>%
@@ -234,7 +234,7 @@ df.clean %>%
   scale_x_continuous(limits = c(0,1))
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-8.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-8.png)
 
 ``` r
 df.clean %>%
@@ -243,7 +243,7 @@ df.clean %>%
   scale_x_continuous(limits = c(0,2))
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-9.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-9.png)
 
 ``` r
 df.clean %>%
@@ -251,7 +251,7 @@ df.clean %>%
   geom_histogram(bins = 42)
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-10.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-10.png)
 
 ``` r
 df.clean %>%
@@ -259,7 +259,7 @@ df.clean %>%
   geom_histogram(bins = 25)
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-11.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-11.png)
 
 ``` r
 df.clean %>%
@@ -267,7 +267,7 @@ df.clean %>%
   geom_histogram(bins = 47)
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-12.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-12.png)
 
 ``` r
 df.clean %>%
@@ -276,7 +276,7 @@ df.clean %>%
 scale_x_continuous(limits = c(0,1000))
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-13.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-13.png)
 
 ``` r
 df.clean %>%
@@ -284,7 +284,7 @@ df.clean %>%
   geom_histogram(stat = "count")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-14.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-14.png)
 
 ``` r
 df.clean %>%
@@ -292,7 +292,7 @@ df.clean %>%
   geom_histogram(stat = "count")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/univariate.histograms-15.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/univariate.histograms-15.png)
 
 ##### Observations:
 
@@ -320,7 +320,7 @@ df.clean %>%
   facet_grid(Company ~ Exclusive)
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.1-1.png)
 
 ``` r
 df.clean %>%
@@ -330,7 +330,7 @@ df.clean %>%
   facet_grid(Company ~ Exclusive)
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.1-2.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.1-2.png)
 
 ##### Observations:
 
@@ -345,7 +345,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-1.png)
 
 ``` r
 df.clean %>%
@@ -356,7 +356,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-2.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-2.png)
 
 ``` r
 df.clean %>%
@@ -367,7 +367,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-3.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-3.png)
 
 ``` r
 df.clean %>%
@@ -378,7 +378,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-4.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-4.png)
 
 ``` r
 df.clean %>%
@@ -389,7 +389,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-5.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-5.png)
 
 ``` r
 df.clean %>%
@@ -400,7 +400,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-6.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-6.png)
 
 ``` r
 df.clean %>%
@@ -411,7 +411,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-7.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-7.png)
 
 ``` r
 df.clean %>%
@@ -422,7 +422,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.2-8.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.2-8.png)
 
 ##### Observations:
 
@@ -440,7 +440,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.3-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.3-1.png)
 
 ``` r
 df.clean %>%
@@ -452,7 +452,7 @@ df.clean %>%
     coord_flip()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.3-2.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.3-2.png)
 
 ``` r
 df.clean %>%
@@ -460,7 +460,7 @@ df.clean %>%
   geom_jitter()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.3-3.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.3-3.png)
 
 ``` r
 df.clean %>%
@@ -468,7 +468,7 @@ df.clean %>%
   geom_jitter()
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/graphical.exploration.3-4.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/graphical.exploration.3-4.png)
 
 ##### Observations:
 
@@ -502,7 +502,7 @@ scale_fill_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(y = "Global Sales", title = "Sony Crushes Nintendo's Global Video Game Sales", subtitle = "Sony Has Sold Slightly More Than Double What Nintendo Has")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.1.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.1.1-1.png)
 
 ##### Observations:
 
@@ -522,7 +522,7 @@ scale_fill_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(y = "Global Sales", title = "Nintendo & Sony Are About Even On Exclusives", subtitle = "Nintendo Massively Underperforms On Cross-Platform Games Relative To Competitors")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.1.2-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.1.2-1.png)
 
 ##### Observations:
 
@@ -542,7 +542,7 @@ scale_fill_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(y = "Global Sales", title = "Nintendo Ignores More Mature Audiences", subtitle = "Nintendo's Sales Are Almost Entirely Comprised Of Family Friendly Games")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.1.3-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.1.3-1.png)
 
 ##### Observations:
 
@@ -565,7 +565,7 @@ scale_fill_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(y = "Global Sales", title = "Nintendo's Problem: The Best Selling Cross-Platform\nGames Are For Mature Audiences", subtitle = "Nintendo Has Largely Ignored T & M Rated Cross-Platform Games While Competitors Embraced Them")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo%202.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo%202.1-1.png)
 
 ##### Observations:
 
@@ -599,7 +599,7 @@ scale_fill_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(y = "Global Sales", title = "Nintendo's Flagship Games Are A Powerful Force", subtitle = "Nintendo's Family Friendly Exclusive Games Sell Better Than Any Other Single Group Of Games")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.3.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.3.1-1.png)
 
 ##### Observations:
 
@@ -620,7 +620,7 @@ scale_fill_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(y = "Global Sales", title = "The Top-Rated Games", subtitle = "Mature Cross-Platform Games are critically acclaimed and sell well")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.4.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.4.1-1.png)
 
 ##### Observations:
 
@@ -638,7 +638,7 @@ scale_color_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(x = "Critical Review Metascore", y = "Global Sales", title = "The Top 100 Selling Games: Nintendo's Domain", subtitle = "Nothing Even Comes Close To Some Of Nintendo's Biggest Hits")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.5.1-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.5.1-1.png)
 
 ##### Observations:
 
@@ -656,7 +656,7 @@ scale_color_viridis(option = "C", discrete = T, end = 0.85, direction = -1) +
   labs(x = "Critical Review Metascore", y = "Global Sales", title = "The Top 100 Critically Reviewed Games:\nNintendo Struggles", subtitle = "Nintendo Has Far Fewer Entries On The Top 100 Critically Reviewed Games Than Competitors")
 ```
 
-![](Final_Project_EDA_files/figure-markdown_github/nintendo.5.2-1.png)
+![](https://github.com/wat3rm3ll0n/VIZ/blob/master/Nintendo%20Report/Nintendo%20EDA%20Images/nintendo.5.2-1.png)
 
 ##### Observations:
 
